@@ -15,7 +15,7 @@ A Java Library for calculating the Gematria value of strings.
 ## 💻 Encoding Methods
 	+ Hebrew
 	+ English
-	+ Simple English
+	+ Simple
 
 ## 💻 How To Use (CLI)
 **Select the Gematria encoding methods you wish to use, then calculate the hash with the following:**
