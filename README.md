@@ -10,6 +10,7 @@ A Java Library for calculating the Gematria value of strings.
 [Download the latest release](https://github.com/Konloch/Gematria/releases).
 
 ## 📚 Links
+* [More Information On Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [Website](https://konloch.com/Gematria/)
 * [Discord Server](https://discord.gg/aexsYpfMEf)
 * [Download Releases](https://github.com/Konloch/Gematria/releases)
