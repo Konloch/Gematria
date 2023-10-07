@@ -1,6 +1,8 @@
 # Gematria
 A Java Library for calculating the Gematria value of strings.
 
+![A screenshot of Gematria](.github/screenshot.png "Screenshot")
+
 ## 💡 Requirements
 + Java Runtime 1.8 **or higher**
 
