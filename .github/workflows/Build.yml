@@ -33,6 +33,6 @@ jobs:
       uses: actions/upload-artifact@v3
       if: ${{ matrix.java == '8' }}
       with:
-        name: gematria-${{ env.lib_version }}-SNAPSHOT
-        path: target/gematria-${{ env.lib_version }}.jar
+        name: Gematria-${{ env.lib_version }}-SNAPSHOT
+        path: target/Gematria-${{ env.lib_version }}.jar
         retention-days: 7
