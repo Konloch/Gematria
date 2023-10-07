@@ -13,20 +13,22 @@ A Java Library for calculating the Gematria value of strings.
 * [Download Releases](https://github.com/Konloch/Gematria/releases)
 
 ## 💻 Encoding Methods
+	+ Hebrew
 	+ English
 	+ Simple English
-	+ Hebrew
 
 ## 💻 How To Use (CLI)
 **Select the Gematria encoding methods you wish to use, then calculate the hash with the following:**
 ```
-java -jar gematria.jar englsh Hello World
+java -jar gematria.jar hebrew Hello World
+java -jar gematria.jar english Hello World
 java -jar gematria.jar simple Hello World
 ```
 
 ## 💻 How To Use (API)
 **Select the Gematria encoding methods you wish to use, then calculate the hash with the following:**
 ```java
-long hash = Gematria.ENGLISH.encode("Hello World");
+long hash = Gematria.HEBREW.encode("Hello World");
+hash = Gematria.ENGLISH.encode("Hello World");
 hash = Gematria.SIMPLE.encode("Hello World");
 ```
