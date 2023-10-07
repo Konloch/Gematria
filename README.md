@@ -1,5 +1,5 @@
 # Gematria
-A Java Library for calculating the Gematria value of strings.
+A Java library / CLI tool for calculating the Gematria value of strings.
 
 ![A screenshot of Gematria](.github/screenshot.png "Screenshot")
 
